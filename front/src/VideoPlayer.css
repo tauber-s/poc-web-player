@@ -1,0 +1,28 @@
+.video-player {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.controls-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.progress-bar {
+  width: 100%;
+  margin: 12px 0;
+}
+
+.seek-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.range {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
